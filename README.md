@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @isnaininurfathoni
-- 👀 I’m interested in Python dev and Network Enginnering
+- 👀 I’m interested in Flutter Dev
 - 🌱 I’m currently learning in Duta Bangsa Surakarta University
 - 📫 How to reach me Follow My Instagram Account:@initony_ Github:@isnaininurfathoni
 
